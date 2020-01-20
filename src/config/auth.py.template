@@ -1,0 +1,6 @@
+TOKEN = 'YOUR_BOT_API_TOKEN'
+CHAT_ID = THE_CHAT_ID_YOU_WANT_TO_NOTIFY_TO
+
+API_ISSUE_URL = 'https://api.github.com/repos/<USER>/<REPO>/issues/<N_OF_ISSUE>/' 
+ISSUE_URL = 'https://github.com/<USER>/<REPO>/issues/<N_OF_ISSUE>/'
+FILE_PATH = '/home/<user>/...'

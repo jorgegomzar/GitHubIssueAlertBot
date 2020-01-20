@@ -29,6 +29,7 @@ Oh, and English is not my first language, so feel free to let me know when somet
 In the near (-ish) future I will have the next features added so it can be much useful.
 
 ## To-Do:
+ - Get more details of the update in the Issuew
  - Find a better way to run the Bot without having to execute the program from crontab
  - Let the bot take the chat_id from the chat instead of the actual static implementation
  - Let the user select the issue he wants to be watching
